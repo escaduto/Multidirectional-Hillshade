@@ -27,7 +27,26 @@ Slope
 Elevation 
 Multi-directional hillshade 
 
+## Results 
+- USGS DEM (10m) - Grayscale
+<img src="figs/USGS_DEM_10m_grayscale.png" 
+alt="USGS_DEM_10m_grayscale">
+- USGS DEM (10m) - Color
+<img src="figs/USGS_DEM_10m_color.png" alt="USGS_DEM_10m_grayscale">
+<br><br>
+- GLOBAL SRTM DEM (30m) - Grayscale
+<img src="figs/SRTM_DEM_30m_grayscale.png" alt="SRTM_DEM_30m_grayscale">
+<br><br>
+- GLOBAL SRTM DEM (30m) - Color
+<img src="figs/SRTM_DEM_30m_color.png" alt="SRTM_DEM_30m_color">
+<br><br>
+- GLOBAL ALOS DSM (30m) - Grayscale
+<img src="figs/ALOS_DSM_30m_grayscale.png" alt="ALOS_DSM_30m_grayscale">
+<br><br>
+- GLOBAL ALOS DSM (30m) - Color
+<img src="figs/ALOS_DSM_30m_color.png" alt="ALOS_DSM_30m_color">
+
 ## Product Export 
 
 Uploaded into Public Cloud storage bucket: 
-- Example: https://storage.googleapis.com/global_hillshade/CA_hillshade_v1/shaderelief_export0000000000-0000000000.tif
+- ALOS 30m Example (CA only): https://storage.googleapis.com/global_hillshade/CA_hillshade_v1/shaderelief_export0000000000-0000000000.tif
