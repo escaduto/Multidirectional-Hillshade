@@ -30,4 +30,4 @@ Multi-directional hillshade
 ## Product Export 
 
 Uploaded into Public Cloud storage bucket: 
-- Example: https://storage.googleapis.com/global_hillshade/CA_hillshade_v1 
+- Example: https://storage.googleapis.com/global_hillshade/CA_hillshade_v1/shaderelief_export0000000000-0000000000.tif
